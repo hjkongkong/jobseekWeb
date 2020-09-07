@@ -3,6 +3,8 @@
 
 블로그 : http://blog.daum.net/hjkongkong/53 <br>
 시연 영상 : https://youtu.be/lwKjlkNkSxY
+[jobSeekingWeb.pdf](https://github.com/hjkongkong/jobseekWeb/files/5181832/jobSeekingWeb.pdf)
+
 - Spring Boot framework
 - Open API
 - h2 Database
