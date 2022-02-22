@@ -5,9 +5,12 @@
 서울 일자리포털 채용정보 Open API 출력값 : 
 [jobSeekingWeb.pdf](https://github.com/hjkongkong/jobseekWeb/files/5181832/jobSeekingWeb.pdf)
 
-- Spring Boot framework
-- Open API
-- h2 Database
-- JPA
-- Ajax
-- DataTables
+- back-end
+  - Spring Boot 2.3.2.RELEASE
+  - Open API
+  - h2 Database
+  - JPA
+- front-end
+  - jsp
+  - javaScript
+  - jQuery(Ajax, DataTables)
