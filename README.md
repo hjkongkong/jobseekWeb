@@ -10,6 +10,7 @@
   - Open API
   - h2 Database
   - JPA
+  - maven
 - front-end
   - jsp
   - javaScript
